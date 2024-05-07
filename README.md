@@ -10,7 +10,7 @@ Brunel Home Page
 
 Follow these steps to set up and run the project locally.
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/kshitiz11101/Thence
